@@ -1,14 +1,10 @@
-<style lang="sass">
-@use "~/assets/sass/main.sass"
-</style>
-
 <template>
   <div class="fixed inset-0 z-20 flex flex-col items-center justify-center">
       <div class="max-w-lg mx-auto rounded overflow-hidden shadow-lg mb-4 flex flex-col items-center justify-center">
         <AppLogo></AppLogo>
         <div class="px-6 py-4 pb-2 text-center">
           <div class="font-bold text-xl mb-2">
-            <h1>Nilotic Studios</h1>
+            <h1>Nilotic Games</h1>
           </div>
           <AppAlert>
             <p class="text-white-700 text-base">
@@ -18,7 +14,7 @@
           <AppForm></AppForm>
         </div>
       </div>
-      <!-- AppFooter is now outside the centered div and will be on a new row -->
+      <!-- AppFooter is on a new row -->
       <AppFooter></AppFooter>
   </div>
   <div class="overlay z-10 opacity-60"></div>
