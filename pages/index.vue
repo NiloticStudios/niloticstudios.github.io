@@ -4,7 +4,7 @@
         <AppLogo></AppLogo>
         <div class="px-6 py-4 pb-2 text-center">
           <div class="font-bold text-xl mb-2">
-            <h1>Nilotic Games</h1>
+            <h1>Nilotic Studios</h1>
           </div>
           <AppAlert>
             <p class="text-white-700 text-base">
@@ -14,10 +14,9 @@
           <AppForm></AppForm>
         </div>
       </div>
-      <!-- AppFooter is on a new row -->
-      <AppFooter></AppFooter>
+      <AppSocials></AppSocials>
   </div>
-  <div class="overlay z-10 opacity-60"></div>
+  <div class="overlay z-10 opacity-70"></div>
   <AppBackground></AppBackground>
 </template>
 

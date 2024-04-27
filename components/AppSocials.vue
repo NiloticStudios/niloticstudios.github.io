@@ -1,0 +1,23 @@
+<template>
+<div>
+    <ul class="social-icons">
+        <li><a href="https://www.youtube.com/@benng5517" target="_blank" class="flex">
+            <img src="/public/youtube.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Youtube
+        </a></li>
+        
+        <li><a href="https://www.instagram.com/ben_bracket/" target="_blank" class="flex">
+            <img src="/public/instagram.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Instagram
+        </a></li>
+
+        <li><a href="https://www.facebook.com/bennggg" target="_blank" class="flex">
+            <img src="/public/facebook.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Facebook
+        </a></li>
+        
+        <li><a href="https://twitter.com/_benng__" target="_blank" class="flex">
+            <img src="/public/twitter.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Twitter/X
+        </a></li>
+        
+        <!-- <li><a href="#">Patreon</a></li> -->
+    </ul>
+</div>
+</template>
