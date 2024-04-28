@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   app: {
-    baseURL: '/niloticstudios.github.io/',
+    baseURL: '/',
     buildAssetsDir: 'assets'
   },
 
