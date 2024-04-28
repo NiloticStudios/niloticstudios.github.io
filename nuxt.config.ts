@@ -2,6 +2,11 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
+  app: {
+    baseURL: '/niloticstudios.github.io/',
+    buildAssetsDir: 'assets'
+  },
+
   vite: {
     css: {
       preprocessorOptions: {
