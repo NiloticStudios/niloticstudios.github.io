@@ -17,13 +17,6 @@ jobs:
       # Pick your own package manager and build script
       - run: npm install
       - run: npm run generate
-      - name: Configure git credentials
-        uses: OleksiyRudenko/gha-git-credentials@v2.1.2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use the GitHub token for authentication
-          name: "bynmz"
-          email: "youngmwanzia@gmail.com"
-      - run: npm run deploy
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
