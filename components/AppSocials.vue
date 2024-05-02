@@ -5,7 +5,7 @@
             <img src="/public/youtube.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Youtube
         </a></li>
         
-        <li><a href="https://www.instagram.com/ben_bracket/" target="_blank" class="flex">
+        <li><a href="https://www.instagram.com/ben_nilotic/" target="_blank" class="flex">
             <img src="/public/instagram.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Instagram
         </a></li>
 
