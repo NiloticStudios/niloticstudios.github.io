@@ -17,6 +17,10 @@
             <img src="/public/twitter.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Twitter/X
         </a></li>
         
+        <li><a href="https://www.tiktok.com/@benng554" target="_blank" class="flex">
+            <img src="/public/tiktok.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;TikTok
+        </a></li>
+        
         <!-- <li><a href="#">Patreon</a></li> -->
     </ul>
 </div>
