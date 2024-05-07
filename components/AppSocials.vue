@@ -5,6 +5,10 @@
             <img src="/public/youtube.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Youtube
         </a></li>
         
+        <li><a href="https://discord.gg/c6XXhFZHP4" target="_blank" class="flex">
+            <img src="/public/discord.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Discord
+        </a></li>
+        
         <li><a href="https://www.instagram.com/ben_nilotic/" target="_blank" class="flex">
             <img src="/public/instagram.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;Instagram
         </a></li>
@@ -21,7 +25,6 @@
             <img src="/public/tiktok.svg" width="20" height="20" style="display: inline; vertical-align: -22px;" />&nbsp;TikTok
         </a></li>
         
-        <!-- <li><a href="#">Patreon</a></li> -->
     </ul>
 </div>
 </template>
