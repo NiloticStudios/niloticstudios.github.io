@@ -1,7 +1,7 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Nile Origin Studios',
-  description: 'Official Website for Nile Origin Studios'
+  title: 'Nile 3D Studios',
+  description: 'Official Website for Nile 3D Studios'
 })
 </script>
 

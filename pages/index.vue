@@ -4,7 +4,7 @@
         <AppLogo></AppLogo>
         <div class="px-6 py-4 pb-2 text-center">
           <div class="font-bold text-xl mb-2">
-            <h1>Nile Origin Studios</h1>
+            <h1>Nile 3D Studios</h1>
           </div>
           <AppAlert>
             <p class="text-white-700 text-base">
